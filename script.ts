@@ -78,9 +78,15 @@ console.log(colorName) // "Green"
 
 
 /** --- 1.6 Unknown ---
- *
+ * Dit type gebruik je om een variabele te beschrijven
+ * waarvan je de type nog niet weet tijdens het compileren.
+ * Deze waardes komen van dynamische inhoud, bijvoorbeeld van de gebruiker.
  */
+let notSure: unknown = 4;
+notSure = "maybe a string instead";
 
+// OK, definitely a boolean
+notSure = false;
 
 /** --- 1.7 Any ---
  *

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="741f5aea-b7cc-4c4b-a8d8-2b6be7fce1e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Public Environment File" />
+        <option value="HTTP Private Environment File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iS5i6USaSqaIwnNSn59Ugn7IZr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.TypeScript" />
+    <property name="ts.external.directory.path" value="C:\Main\Software\Jetbrains\apps\IDEA-U\ch-0\202.7319.50\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601892018205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601892018205" />
+    <state x="419" y="229" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog" timestamp="1601891628324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="419" y="229" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog/0.0.1366.728@0.0.1366.728" timestamp="1601891628324" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1602416518405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602416518405" />
+    <state x="354" y="145" key="NewModule_or_Project.wizard" timestamp="1602416538225">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="354" y="145" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1602416538225" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1601892138273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601892138273" />
+  </component>
+</project>
